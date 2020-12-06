@@ -1,9 +1,0 @@
-login Details for admin : 
-
-
-
-Username : admin
-
-Password : Test@123
-
-
